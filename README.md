@@ -1,34 +1,13 @@
 # 👨‍💻 Louis Sarmiento| FullStack Developer 🚀
 
-¡Hola! Soy **Louis**, un apasionado desarrollador FullStack. Me encanta construir aplicaciones web modernas, enseñar con paciencia y creatividad, y ayudar a otros a crecer en el mundo del desarrollo.
+¡Hola! Soy **Louis**, un apasionado desarrollador de software con una mente curiosa y sed de conocimiento. Disfruto explorar nuevas tecnologías,
 
----
+#Estadisticas
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pericles842&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-## 🧰 Tecnologías y herramientas
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pericles842)](https://github.com/anuraghazra/github-readme-stats)
 
-### Frontend
-- **HTML | CSS | JavaScript**
-- **Angular | Bootstrap | Ionic**
-
-### Backend
-- **PHP | Laravel**
-- **Node.js | Express**
-- **MySQL | PostgreSQL**
-
-### Otros
-- **Git & GitHub**
-- **API REST**
-
----
-
-## 💡 Lo que hago
-
-✅ Desarrollo de sitios web personalizados  
-✅ Creación de sistemas  
-
----
-
-## 📬 ¿Charlamos?
+## 📬 ¿Deseas un proyecto?
 
 - Instagram: [@coffeecode.dev](https://instagram.com/coffeecode.ve)  
 - Email: *info@coffeecode.es*  
