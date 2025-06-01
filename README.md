@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👨‍💻 Louis Sarmiento| FullStack Developer 🚀
 
-<!--
-**pericles842/pericles842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy **Louis**, un apasionado desarrollador FullStack. Me encanta construir aplicaciones web modernas, enseñar con paciencia y creatividad, y ayudar a otros a crecer en el mundo del desarrollo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologías y herramientas
+
+### Frontend
+- **HTML | CSS | JavaScript**
+- **Angular | Bootstrap | Ionic**
+
+### Backend
+- **PHP | Laravel**
+- **Node.js | Express**
+- **MySQL | PostgreSQL**
+
+### Otros
+- **Git & GitHub**
+- **API REST**
+
+---
+
+## 💡 Lo que hago
+
+✅ Desarrollo de sitios web personalizados  
+✅ Creación de sistemas  
+
+---
+
+## 📬 ¿Charlamos?
+
+- Instagram: [@coffeecode.dev](https://instagram.com/coffeecode.ve)  
+- Email: *info@coffeecode.es*  
+- GitHub: ¡Estás aquí! ⭐
+
